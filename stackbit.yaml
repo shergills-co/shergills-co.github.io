@@ -47,7 +47,11 @@ models:
         name: footer
         fields:
           - type: string
-            name: copyright_text
+            name: address
+          - type: string
+            name: phone
+          - type: string
+            name: fax
       - type: object
         name: seo
         fields:
