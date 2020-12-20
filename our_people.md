@@ -1,3 +1,11 @@
+---
+title: Our Team
+layout: teams
+permalink: /our_people/
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
+---
+
 G.S.SHERGILL B.A. (Hons) (NOTARY PUBLIC) - [Email](mailto:ask@shergills.co.uk).
 
 K.SINGH LL.B (Hons) - [Email](mailto:ask@shergills.co.uk).
