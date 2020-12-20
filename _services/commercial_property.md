@@ -1,3 +1,10 @@
+---
+title: "Commercial Property"
+featured: true
+weight: 3
+layout: service
+---
+
 Commercial property decisions can be complex. Legal advice makes all the difference whether you are leasing, buying or selling. You gain
 from up-to-date legal knowledge with no jargon.
  

@@ -1,3 +1,10 @@
+---
+title: "Family Law"
+featured: true
+weight: 5
+layout: service
+---
+
 Family breakdown and divorce can be a time of emotional crisis for everyone involved. Our team of specialist family law solicitors will concentrate on what is best for you and your family.
  
 From the outset we agree the priorities for you and your family. We help you plan your future by taking a long term view.  Sometimes a divorce can affect a family business, partnership or trust. Our commercial lawyers can advise on any business related matter affected by divorce proceedings.

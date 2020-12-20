@@ -1,3 +1,10 @@
+---
+title: "Notary Public"
+featured: true
+weight: 2
+layout: service
+---
+
 An English Notary Public may be described as a specialist lawyer whose main business is to verify the proper execution of English documentation going abroad and, where necessary, to issue an appropriate certificate. That certificate, or in some cases the original document itself, will be signed by the notary and he will also attach his notaries’ seal of office which is personal to him and totally unique. This procedure is a formal one, and necessarily so, for what the notary says and so certifies will be relied upon throughout the world.
 
 A Notary Public needs to be familiar with many aspects of international law and the way the law operates in other countries. So if, when you come to see us, you have a question which relates to international law, to foreign company law or any other international law matter, it is likely that we will be able to help you.

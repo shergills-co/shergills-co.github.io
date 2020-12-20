@@ -1,3 +1,10 @@
+---
+title: "Wills Probate"
+featured: true
+weight: 4
+layout: service
+---
+
 ### The Importance of Making a Will
 
 People very often imagine that that all they need do to make a will is write down a piece of paper with what they want and to sign and date it. Nothing could be further from the truth. The formalities involved in making a will are very technical and they can, and do, frequently trip up amateur will-makers. The results of apparently simple mistakes can lead to costly litigation which can very easily be avoided when the will is originally drafted. These are by means the only formalities attending the making of a will and, indeed, the necessary formalities can vary according to the circumstances.
