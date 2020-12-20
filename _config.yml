@@ -11,7 +11,7 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: '22 Bath Road, Hounslow, TW3 3EB href="https://goo.gl/maps/q8ARQSHTwQwMR3RNA"'
+  copyright_text: '<a class="zerostatic" href="https://goo.gl/maps/q8ARQSHTwQwMR3RNA" 22 Bath Road, Hounslow, TW3 3EB</a>'
 
 seo:
   meta_og_title: 'Shergill & Co. - Solicitors and Notary Public'
